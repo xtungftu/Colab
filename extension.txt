@@ -8,7 +8,6 @@ git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /conten
 git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
 git clone https://github.com/s0md3v/roop /content/SD-CSDM/extensions/roop
 git clone https://github.com/s0md3v/roop /content/SD-CSDM/extensions/roop
-
 git clone https://github.com/Bing-su/Adetailer /content/SD-CSDM/extensions/Adetailer
 git clone https://github.com/artyfacialintelagent/CloneCleaner /content/SD-CSDM/extensions/CloneCleaner
 git clone https://github.com/glucauze/sd-webui-faceswaplab /content/SD-CSDM/extensions/sd-webui-faceswaplab
