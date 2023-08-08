@@ -6,5 +6,5 @@ git clone https://github.com/camenduru/sd-civitai-browser /content/SD-CSDM/exten
 git clone https://github.com/camenduru/control /content/SD-CSDM/extensions/sd-webui-controlnet
 git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/SD-CSDM/extensions/deforum-for-automatic1111-webui
 git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
-git clone https://github.com/s0md3v/sd-webui-roop /content/SD-CSDM/extensions/sd-webui-roop
-git clone https://github.com/s0md3v/sd-webui-roop /content/SD-CSDM/extensions/sd-webui-roop
+
+git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/SD-CSDM/extensions/sd-webui-openpose-editor
