@@ -8,6 +8,7 @@ git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunne
 git clone https://github.com/s0md3v/sd-webui-roop /content/SD-CSDM/extensions/sd-webui-roop
 git clone https://github.com/Bing-su/Adetailer /content/SD-CSDM/extensions/Adetailer
 git clone https://github.com/artyfacialintelagent/CloneCleaner /content/SD-CSDM/extensions/CloneCleaner
+
 git clone https://github.com/glucauze/sd-webui-faceswaplab /content/SD-CSDM/extensions/sd-webui-faceswaplab
 git clone https://github.com/Uminosachi/sd-webui-inpaint-anything /content/SD-CSDM/extensions/sd-webui-inpaint-anything 
 git clone https://github.com/continue-revolution/sd-webui-segment-anything /content/SD-CSDM/extensions/sd-webui-segment-anything
