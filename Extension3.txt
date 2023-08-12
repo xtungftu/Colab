@@ -5,7 +5,6 @@ aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/emb
 git clone https://github.com/camenduru/control /content/SD-CSDM/extensions/sd-webui-controlnet
 git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/SD-CSDM/extensions/deforum-for-automatic1111-webui
 git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
-git clone https://github.com/s0md3v/sd-webui-roop /content/SD-CSDM/extensions/sd-webui-roop
 git clone https://github.com/artyfacialintelagent/CloneCleaner /content/SD-CSDM/extensions/CloneCleaner
 git clone https://github.com/glucauze/sd-webui-faceswaplab /content/SD-CSDM/extensions/sd-webui-faceswaplab
 git clone https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 /content/SD-CSDM/extensions/ultimate-upscale-for-automatic1111
@@ -13,3 +12,6 @@ git clone https://github.com/ashen-sensored/stable-diffusion-webui-two-shot /con
 git clone https://github.com/Bing-su/Adetailer /content/SD-CSDM/extensions/Adetailer
 git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
 git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
+git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper /content/SD-CSDM/extensions/sd-webui-aspect-ratio-helper
+git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/SD-CSDM/extensions/sd-webui-openpose-editor
+git clone https://github.com/mcmonkeyprojects/sd-dynamic-thresholding /content/SD-CSDM/extensions/sd-dynamic-thresholding
