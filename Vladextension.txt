@@ -1,19 +1,19 @@
-git clone -b v2.4 https://github.com/camenduru/ui /content/SD-CSDM
-git clone https://github.com/camenduru/control /content/SD-CSDM/extensions/sd-webui-controlnet
-git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/SD-CSDM/extensions/deforum-for-automatic1111-webui
-git clone https://github.com/camenduru/tunnels /content/SD-CSDM/extensions/tunnels
-git clone https://github.com/artyfacialintelagent/CloneCleaner /content/SD-CSDM/extensions/CloneCleaner
-git clone https://github.com/glucauze/sd-webui-faceswaplab /content/SD-CSDM/extensions/sd-webui-faceswaplab
-git clone https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 /content/SD-CSDM/extensions/ultimate-upscale-for-automatic1111
-git clone https://github.com/ashen-sensored/stable-diffusion-webui-two-shot /content/SD-CSDM/extensions/stable-diffusion-webui-two-shot
-git clone https://github.com/Bing-su/Adetailer /content/SD-CSDM/extensions/Adetailer
-git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/SD-CSDM/extensions/a1111-sd-webui-tagcomplete
-git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper /content/SD-CSDM/extensions/sd-webui-aspect-ratio-helper
-git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/SD-CSDM/extensions/sd-webui-openpose-editor
-git clone https://github.com/mcmonkeyprojects/sd-dynamic-thresholding /content/SD-CSDM/extensions/sd-dynamic-thresholding
-git clone https://github.com/hako-mikan/sd-webui-regional-prompter /content/SD-CSDM/extensions/sd-webui-regional-prompter
-git clone https://github.com/richrobber2/canvas-zoom /content/SD-CSDM/extensions/canvas-zoom
-git clone https://github.com/jexom/sd-webui-depth-lib /content/SD-CSDM/extensions/sd-webui-depth-lib
+git clone -b v2.4 https://github.com/camenduru/ui /content/stable-diffusion-webui
+git clone https://github.com/camenduru/control /content/stable-diffusion-webui/extensions/sd-webui-controlnet
+git clone https://github.com/deforum-art/deforum-for-automatic1111-webui /content/stable-diffusion-webui/extensions/deforum-for-automatic1111-webui
+git clone https://github.com/camenduru/tunnels /content/stable-diffusion-webui/extensions/tunnels
+git clone https://github.com/artyfacialintelagent/CloneCleaner /content/stable-diffusion-webui/extensions/CloneCleaner
+git clone https://github.com/glucauze/sd-webui-faceswaplab /content/stable-diffusion-webui/extensions/sd-webui-faceswaplab
+git clone https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 /content/stable-diffusion-webui/extensions/ultimate-upscale-for-automatic1111
+git clone https://github.com/ashen-sensored/stable-diffusion-webui-two-shot /content/stable-diffusion-webui/extensions/stable-diffusion-webui-two-shot
+git clone https://github.com/Bing-su/Adetailer /content/stable-diffusion-webui/extensions/Adetailer
+git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/stable-diffusion-webui/extensions/a1111-sd-webui-tagcomplete
+git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper /content/stable-diffusion-webui/extensions/sd-webui-aspect-ratio-helper
+git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/stable-diffusion-webui/extensions/sd-webui-openpose-editor
+git clone https://github.com/mcmonkeyprojects/sd-dynamic-thresholding /content/stable-diffusion-webui/extensions/sd-dynamic-thresholding
+git clone https://github.com/hako-mikan/sd-webui-regional-prompter /content/stable-diffusion-webui/extensions/sd-webui-regional-prompter
+git clone https://github.com/richrobber2/canvas-zoom /content/stable-diffusion-webui/extensions/canvas-zoom
+git clone https://github.com/jexom/sd-webui-depth-lib /content/stable-diffusion-webui/extensions/sd-webui-depth-lib
 git clone https://huggingface.co/embed/negative /content/stable-diffusion-webui/embeddings/negative
 git clone https://huggingface.co/embed/lora /content/stable-diffusion-webui/models/Lora/positive
 aria2c --console-log-level=error -c -x 16 -s 16 -k 1M https://huggingface.co/embed/upscale/resolve/main/4x-UltraSharp.pth -d /content/stable-diffusion-webui/models/ESRGAN -o 4x-UltraSharp.pth
