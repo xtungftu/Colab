@@ -1,0 +1,4 @@
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Model /content/stable-diffusion-webui/models/Stable-diffusion
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Lora /content/stable-diffusion-webui/models/Lora
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/VAE /content/stable-diffusion-webui/models/VAE
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Embeddings /content/stable-diffusion-webui/models/embeddings
