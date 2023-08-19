@@ -1,0 +1,12 @@
+import subprocess
+apt -y update -qq
+wget https://launchpad.net/ubuntu/+archive/primary/+files/libgoogle-perftools-dev_2.9.1-0ubuntu3_amd64.deb
+wget https://launchpad.net/ubuntu/+archive/primary/+files/google-perftools_2.9.1-0ubuntu3_amd64.deb
+wget https://launchpad.net/ubuntu/+archive/primary/+files/libtcmalloc-minimal4_2.9.1-0ubuntu3_amd64.deb
+wget https://launchpad.net/ubuntu/+archive/primary/+files/libgoogle-perftools4_2.9.1-0ubuntu3_amd64.deb
+apt install -qq libunwind8-dev
+dpkg -i *.deb
+rm *.deb
+apt -y install -qq aria2 libcairo2-dev pkg-config python3-dev
+pip install -q torch==2.0.0+cu118 torchvision==0.15.1+cu118 torchaudio==2.0.1+cu118 torchtext==0.15.1 torchdata==0.6.0 --extra-index-url https://download.pytorch.org/whl/cu118 -U
+pip install -q xformers==0.0.19 triton==2.0.0 -U
