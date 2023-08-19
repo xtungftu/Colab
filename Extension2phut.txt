@@ -16,4 +16,3 @@ git clone https://github.com/huchenlei/sd-webui-openpose-editor /content/SD-CSDM
 git clone https://github.com/mcmonkeyprojects/sd-dynamic-thresholding /content/SD-CSDM/extensions/sd-dynamic-thresholding
 git clone https://github.com/hako-mikan/sd-webui-regional-prompter /content/SD-CSDM/extensions/sd-webui-regional-prompter
 git clone https://github.com/richrobber2/canvas-zoom /content/SD-CSDM/extensions/canvas-zoom
-git clone https://github.com/jexom/sd-webui-depth-lib /content/SD-CSDM/extensions/sd-webui-depth-lib
