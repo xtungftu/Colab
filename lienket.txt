@@ -1,2 +1,4 @@
 ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Model /content/SD-CSDM/models/Stable-diffusion
 ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Lora /content/SD-CSDM/models/Lora
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/VAE /content/SD-CSDM/models/VAE
+ln -s /content/drive/MyDrive/SD-ChiaSeDamMe/Embeddings /content/SD-CSDM/models/embeddings
