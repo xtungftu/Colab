@@ -21,3 +21,4 @@ git clone https://github.com/richrobber2/canvas-zoom /content/SD-CSDM/extensions
 git clone https://github.com/IDEA-Research/DWPose /content/SD-CSDM/extensions/DWPose
 git clone https://github.com/fkunn1326/openpose-editor /content/SD-CSDM/extensions/openpose-editor
 git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
+git clone https://drive.google.com/u/0/uc?id=12L8E2oAgZy4VACGSK9RaZBZrfgx7VTA2&export=download /content/SD-CSDM/extensions/sd-webui-controlnet/models 
