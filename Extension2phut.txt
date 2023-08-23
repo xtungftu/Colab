@@ -20,5 +20,5 @@ git clone https://github.com/richrobber2/canvas-zoom /content/SD-CSDM/extensions
 git clone https://github.com/IDEA-Research/DWPose /content/SD-CSDM/extensions/DWPose
 git clone https://github.com/fkunn1326/openpose-editor /content/SD-CSDM/extensions/openpose-editor
 git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD-CSDM/extensions/sd-webui-3d-open-pose-editor
-git clone https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth /content/SD-CSDM/extensions/sd-webui-controlnet/models 
 git clone https://github.com/ninjaneural/segment-anything /content/SD-CSDM/extensions/segment-anything
+git clone https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth /content/SD-CSDM/extensions/segment-anything//models/sam
