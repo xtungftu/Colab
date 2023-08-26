@@ -23,3 +23,4 @@ git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor /content/SD
 git clone https://github.com/ninjaneural/segment-anything /content/SD-CSDM/extensions/segment-anything
 git clone https://github.com/geekyutao/Inpaint-Anything /content/SD-CSDM/extensions/Inpaint-Anything
 git clone https://github.com/yankooliveira/sd-webui-photopea-embed /content/SD-CSDM/extensions/sd-webui-photopea-embed
+git clone https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth /content/SD-CSDM/extensions/segment-anything/models/sam
